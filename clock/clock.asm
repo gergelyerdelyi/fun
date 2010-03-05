@@ -2,6 +2,8 @@
 ;
 ; Author: gergely.erdelyi@d-dome.net
 ; 
+; This code is hereby placed to the PUBLIC DOMAIN. Enjoy.
+;
 ; This was originally a contribution for Imphobia coder compo in
 ; 1996 which was unfortunately cancelled.
 ; Apparently the old page with intermediate compo results is still up:
