@@ -1,6 +1,6 @@
 ; Resident clock program for MS-DOS in 56 bytes
 ;
-; Author: gergely.erdelyi@d-dome.net
+; Author: gergely@erdelyi.hu
 ; 
 ; This code is hereby placed to the PUBLIC DOMAIN. Enjoy.
 ;
